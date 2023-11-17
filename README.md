@@ -12,9 +12,9 @@ Model was trained on 5 WSIs from Camelyon 17
 ## Visualization of Tumor localization performance on MSKCC 
 Model was trained on 5 WSIs from Camelyon 17
 
-![MSKCC visualization](./figures/MSKCC_visualization.PNG)
+![MSKCC visualization](./figures/MSKCC_visualization.png)
 
 ## Visualization of Tumor localization performance on Breast Cancer Needle Core Biopsies (BCNB) 
 Model was trained on 15 WSIs
 
-![BCNB visualization](./figures/BCNB_visualization.PNG)
+![BCNB visualization](./figures/BCNB_visualization.png)
