@@ -1,8 +1,10 @@
-# SSMP
-Simulated Segmentation with Masked Patches
+# SSMP: Simulated Segmentation with Masked Patches
 
-## CAMAIL Schematic
+## SSMP Schematic
 ![SSMP Schematic](./figures/SSMP_schematic.drawio.png)
+
+## Algorithm
+![SSMP Algorithm](./figures/SSMP_Algorithm.png)
 
 ## Visualization of Tumor localization performance on Camelyon 16
 Model was trained on 5 WSIs from Camelyon 17
