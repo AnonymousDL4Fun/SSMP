@@ -4,7 +4,7 @@
 ![SSMP Schematic](./figures/SSMP_schematic.drawio.png)
 
 ## Algorithm
-![SSMP Algorithm](./figures/SSMP_Algorithm.png)
+![SSMP Algorithm]<img src="./figures/SSMP_Algorithm.png" width="800">
 
 ## Visualization of Tumor localization performance on Camelyon 16
 Model was trained on 5 WSIs from Camelyon 17
