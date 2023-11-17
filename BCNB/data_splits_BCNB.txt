@@ -1,0 +1,29 @@
+
+WSI level segregation for few shot model training 
+
+WSIs collected from Breast Cancer Needle Core Biopsy (BCNB) dataset
+
+Dataset available at: https://bupt-ai-cz.github.io/BCNB/
+
+Data splits for Few-shot Experiments
+
+Training set
+=================
+3.jpg
+10.jpg
+15.jpg
+20.jpg
+33.jpg
+40.jpg
+48.jpg
+74.jpg
+75.jpg
+87.jpg
+
+Validation set
+=================
+6.jpg
+18.jpg
+31.jpg
+36.jpg
+44.jpg

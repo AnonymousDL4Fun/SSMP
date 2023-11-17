@@ -1,0 +1,86 @@
+
+WSI level segregation for 5, 10 and 15 Shot model training
+
+WSIs collected from 50 annotated WSIs from Camelyon 17 dataset
+
+Dataset available at https://camelyon17.grand-challenge.org/
+
+##########################################
+#  5 Shot 
+##########################################
+
+Training set
+===================
+patient_012_node_0
+patient_020_node_4
+patient_044_node_4
+patient_075_node_4
+patient_096_node_0
+
+
+Validation set
+===================
+patient_015_node_1
+patient_022_node_4
+patient_052_node_1
+patient_073_node_1
+patient_092_node_1
+
+
+##########################################
+# 10 Shot (In addition to WSIs from 5 Shot)
+##########################################
+
+Training set
+==================
+patient_015_node_1
+patient_034_node_3 
+patient_042_node_3
+patient_062_node_2
+patient_099_node_4
+
+
+Validation set
+===================
+patient_017_node_2
+patient_036_node_3 
+patient_046_node_3
+patient_066_node_2
+patient_088_node_1
+
+
+##########################################
+#  15 Shot (In addition to WSIs from 5 and 10 Shot)
+##########################################
+
+Training set
+===================
+patient_015_node_2
+patient_034_node_3 (repeated)
+patient_051_node_2
+patient_072_node_0
+patient_089_node_3
+
+Validation set
+===================
+patient_017_node_4
+patient_036_node_3 (repreated)
+patient_048_node_1
+patient_068_node_1
+patient_087_node_0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
